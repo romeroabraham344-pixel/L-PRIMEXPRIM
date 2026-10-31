@@ -1,0 +1,8 @@
+{
+  "name": "Remix L-PRIMEXPRIM Sensibilidad",
+  "description": "Generador de sensibilidad L-PRIMEXPRIM con autenticación y panel de administración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
